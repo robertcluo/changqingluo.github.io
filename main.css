@@ -7,12 +7,12 @@ html {
 body {
     background: #f2f4e3;
     box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
-    color: #9c2517;
+    color: #68180f;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 15px;
+    font-size: 16px;
     line-height: 1.2;
     margin: 0 auto;
-    max-width: 600px;
+    max-width: 640px;
     padding: 2em 2em 2em;
 }
 
@@ -20,12 +20,12 @@ h1, h2, h3, h4, h5, h6 {
     color: #9c2517;
     font-size: 22px;
     font-weight: 600;
-    line-height: 1.2;
+    line-height: 0.9;
 }
 
 h2 {
     margin-top: 1em;
-    font-size: 18px;
+    font-size: 19px;
     font-weight:500;
 }
 
